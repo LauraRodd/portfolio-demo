@@ -8,4 +8,4 @@ This has been one of the projects built with HTML and CSS for the *Responsive We
 - CSS
 - VSCode
 
-## View [Live](https://codepen.io/laura-rodd/full/pojeRPG)
+## View [Live](https://codepen.io/laura-rodd/full/ZEbJbrj)
